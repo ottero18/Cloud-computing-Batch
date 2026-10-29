@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Batch 17-26OD1110/lab-1 (212225040278 - NAVEENKUMAR V)/Lab 1 Introduction to AWS IAM.md
+<<<<<<< CC-26OD2236 (212225020061 - Wahhaj Ahamed A)/Lab 1 Introduction to AWS IAM.md
 # Lab 1: Introduction to AWS IAM
 
 **AWS Identity and Access Management (IAM)** is a web service that enables Amazon Web Services (AWS) customers to manage users and user permissions in AWS. With IAM, you can centrally manage **users**, **security credentials** such as access keys, and **permissions** that control which AWS resources users can access.
@@ -807,10 +807,14 @@ A panel indicates that *You may close this message box now...*
 
 ---
 ## OUTPUT
-<img width="1024" height="516" alt="image" src="https://github.com/user-attachments/assets/1dd726bb-9503-4166-a94a-a87a0ba91265" />
-<img width="1024" height="479" alt="image" src="https://github.com/user-attachments/assets/51098fba-f62a-465e-92d4-a94cfea073be" />
-<img width="1768" height="889" alt="image" src="https://github.com/user-attachments/assets/89767e6d-2390-4922-83dd-f3f0994c0b0b" />
-<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/9b878c62-2fb5-4a56-95fb-58f108c8111a" />
+<img width="1881" height="1072" alt="Screenshot 2026-10-28 102605" src="https://github.com/user-attachments/assets/6a358131-c8de-4126-8aef-baf5db33336b" />
+<img width="1902" height="1066" alt="Screenshot 2026-10-28 103332" src="https://github.com/user-attachments/assets/2bef7361-c84d-47e4-be1e-37b80625aeba" />
+<img width="1917" height="1055" alt="Screenshot 2026-10-28 103909" src="https://github.com/user-attachments/assets/64fe20e2-aac6-49fe-b2ff-bf1f8a5bc5d4" />
+<img width="1892" height="1012" alt="Screenshot 2026-10-28 104244" src="https://github.com/user-attachments/assets/1c1ec7a0-7819-4154-b8df-e305d6faee4d" />
+
+
+
+
 
 ## Conclusion
 
@@ -823,4 +827,4 @@ Congratulations! You now have successfully:
 - Experimented with the effects of policies on service access
 
 © 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
->>>>>>> pr-student:Batch 17-26OD1110/Lab 1 Introduction to AWS IAM.md
+>>>>>>> CC-26OD2236/Lab 1 Introduction to AWS IAM.md
